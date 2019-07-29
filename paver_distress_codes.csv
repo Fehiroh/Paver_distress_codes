@@ -1,0 +1,19 @@
+﻿Distress_Code ,Distess_name,corresp_col_names
+1,alig crack,ALLIG
+2,bleeding,BLEED
+3,block cracking,BLOCK
+4,Bumps / sags ,BUMP
+5,corrug,CORRUG
+6,depression,DEPRESS
+7,edge cracking,EDGE 
+9,Lane / shoulder drop ,ASHOULD
+10,long / trans cracking,LO_TR
+11,patch / utility cut,PATC
+12,polished aggregate,ACPOLISH
+13,pothole,POTHOLE
+14,XX,RXX
+15,rutting,RUT
+16,shoving,SHOVE
+17,slippage cracking,SLIP
+18,swell,SWELL
+19,ravelling,RAVEL
