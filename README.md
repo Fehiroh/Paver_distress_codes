@@ -1,2 +1,5 @@
 # Paver_distress_codes
-contains files necessary for changing 
+contains files necessary for joining distress codes to a table
+
+
+
